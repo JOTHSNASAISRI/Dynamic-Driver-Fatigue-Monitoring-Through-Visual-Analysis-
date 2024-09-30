@@ -1,1 +1,2 @@
 # Dynamic-Driver-Fatigue-Monitoring-Through-Visual-Analysis-
+The Dynamic Driver Fatigue Monitoring Through Visual Analysis project focuses on detecting driver fatigue using Python and OpenCV for real-time alertness monitoring. It employs the Haar Cascade algorithm to identify and track facial features, coupled with the shape_predictor_68_face_landmarks.dat file for precise facial landmark detection. This approach ensures accurate drowsiness detection across diverse lighting conditions, enhancing the reliability of the monitoring system.
